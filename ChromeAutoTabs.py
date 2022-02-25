@@ -21,7 +21,7 @@ pyautogui.hotkey('ctrl','n')
 #Opens Selected Tabs
 
 pyautogui.click(x=301,y=87)
-pyautogui.click(button='left', interval=0.25)
+pyautogui.click(button='left', interval=0.50)
 
 pyautogui.hotkey('ctrl','t')
 
